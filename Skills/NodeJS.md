@@ -20,13 +20,13 @@
   - Dependencies: npm, node_modules
   - Dependencies: package.json and package lock
   - Module-based permissions model
-  - Isolation with modularity
-  - Dependency injection
-  - DI containers
-  - Coupling and cohesion
+  - Isolation with modularity 🙋 explained
+  - Dependency injection 🙋 explained
+  - DI containers 🙋 explained
+  - Coupling and cohesion 🙋 explained
   - Framework agnostic approach
 - Environment
-  - Command line arguments
+  - Command line arguments 🙋 explained
   - Node.js CLI
   - Process-based permissions
   - Graceful shutdown
@@ -61,95 +61,95 @@
   - Blob, File, Buffer, node:buffer
   - Module node:zlib
 - Application structure and architecture
-  - Isolation between layer
-  - Multilayer approach
+  - Isolation between layer 🙋 explained
+  - Multilayer approach 🙋 explained
   - Separation of concerns
-  - Inversion of control
-  - Dependency injection
-  - GRASP
-  - SOLID
-  - GoF patterns
+  - Inversion of control 🚀 constructed
+  - Dependency injection 🚀 constructed
+  - GRASP 🔬 researched
+  - SOLID 🔬 researched
+  - GoF patterns 🚀 constructed
   - Distributed systems
-  - Highload applications
-  - Clean architecture
+  - Highload applications 🚀 constructed
+  - Clean architecture 🙋 explained
   - DDD
   - Message Queue
   - CQS
   - CQRS
   - Event sourcing
-  - Load balancing
-  - Serverless clouds
-  - FaaS clouds
-  - Fat controller
+  - Load balancing 🎓 known
+  - Serverless clouds 🎓 known
+  - FaaS clouds 🎓 known
+  - Fat controller 🎓 known
   - GoF for Node.js
   - Leaking abstractions
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
-  - TLS
-  - Websocket
+  - HTTP(S) 🚀 constructed
+  - TCP/SSL 🔬 researched
+  - UDP 🔬 researched
+  - TLS 🔬 researched
+  - Websocket  🚀 constructed
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST 🔬 researched
   - RPC
   - Routing
-  - DoS
-  - DDoS
+  - DoS 👂 heard
+  - DDoS 🔬 researched
   - XSS
-  - Path traversal
-  - CSRF
-  - DNS
+  - Path traversal 🚀 constructed
+  - CSRF 🙋 explained
+  - DNS 🙋 explained
   - Fetch API
   - IncomingMessage
-  - SQL injection
+  - SQL injection 🚀 constructed 😅
   - noDelay
   - keep-alive
   - ALPN
   - SNI callback
-  - SSL certificates
+  - SSL certificates 🔬 researched
   - Protocol agnostic approach
 - Technique and tools
-  - Native test runner
-  - Logging
-  - Application configuring
-  - Testing
-  - CI/CD
-  - Readable
-  - Writable
-  - Transform
-  - back pressure
-  - Buffer
-  - Console
-  - Inspector
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Native test runner 🙋 explained
+  - Logging 🚀 constructed
+  - Application configuring 🎓 known
+  - Testing 🔬 researched
+  - CI/CD 🎓 known
+  - Readable 🎓 known
+  - Writable 🎓 known
+  - Transform 🎓 known
+  - back pressure 👂 heard
+  - Buffer 🖐️ used
+  - Console 🖐️ used
+  - Inspector 🖐️ used
+  - Reliability 🔬 researched
+  - Quality 🔬 researched
+  - Availability 🔬 researched
+  - Flexibility 🔬 researched
 - Data access
-  - Data access layer
-  - Repository
-  - Active record
-  - Query builder
-  - Object-Relational Mapping
+  - Data access layer 🚀 constructed
+  - Repository 🚀 constructed
+  - Active record 🖐️ used
+  - Query builder 🖐️ used
+  - Object-Relational Mapping 🚀 constructed
 - Error handling and debugging
-  - Error
-  - error.cause
-  - error.code
-  - error.message
-  - error.stack
+  - Error 🔬 researched
+  - error.cause 🔬 researched
+  - error.code 🔬 researched
+  - error.message 🔬 researched
+  - error.stack 🔬 researched
   - How to avoid mixins
   - Error.captureStackTrace
-  - Uncaught exceptions
-  - Heap dump
-  - Debugging tools
+  - Uncaught exceptions 🔬 researched
+  - Heap dump 🔬 researched
+  - Debugging tools 🎓 known
   - Flame graph
-  - Memory leaks
-  - Resource leaks
-  - Data race
+  - Memory leaks 🔬 researched
+  - Resource leaks 🔬 researched
+  - Data race 🔬 researched
 - Integrations and bindings
   - Native addons
   - C and C++ addons

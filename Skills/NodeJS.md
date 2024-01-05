@@ -26,7 +26,7 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
+  - Command line arguments 🙋 explained
   - Node.js CLI
   - Process-based permissions
   - Graceful shutdown
@@ -65,9 +65,9 @@
   - Multilayer approach
   - Separation of concerns
   - Inversion of control
-  - Dependency injection
+  - Dependency injection 
   - GRASP
-  - SOLID
+  - SOLID 🔬 researched
   - GoF patterns
   - Distributed systems
   - Highload applications
@@ -86,23 +86,23 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
-  - TLS
-  - Websocket
+  - HTTP(S) 🚀 constructed
+  - TCP/SSL 🔬 researched
+  - UDP 🔬 researched
+  - TLS 🔬 researched
+  - Websocket  🚀 constructed
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST 🔬 researched
   - RPC
   - Routing
-  - DoS
-  - DDoS
+  - DoS 👂 heard
+  - DDoS 🔬 researched
   - XSS
   - Path traversal
   - CSRF
-  - DNS
+  - DNS 🙋 explained
   - Fetch API
   - IncomingMessage
   - SQL injection
@@ -113,10 +113,10 @@
   - SSL certificates
   - Protocol agnostic approach
 - Technique and tools
-  - Native test runner
+  - Native test runner 🙋 explained
   - Logging
   - Application configuring
-  - Testing
+  - Testing 🔬 researched
   - CI/CD
   - Readable
   - Writable
@@ -136,19 +136,19 @@
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error
-  - error.cause
-  - error.code
-  - error.message
-  - error.stack
+  - Error 🔬 researched
+  - error.cause 🔬 researched
+  - error.code 🔬 researched
+  - error.message 🔬 researched
+  - error.stack 🔬 researched
   - How to avoid mixins
   - Error.captureStackTrace
-  - Uncaught exceptions
-  - Heap dump
-  - Debugging tools
+  - Uncaught exceptions 🔬 researched
+  - Heap dump 🔬 researched
+  - Debugging tools 🎓 known
   - Flame graph
-  - Memory leaks
-  - Resource leaks
+  - Memory leaks 🔬 researched
+  - Resource leaks 🔬 researched
   - Data race
 - Integrations and bindings
   - Native addons

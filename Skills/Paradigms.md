@@ -1,66 +1,66 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
-  - Generic programming
-  - Concurrent computing
-  - Asyncronous programming
-  - Parallel programming
-  - Reactive programming
-  - FRP (Functional-reactive)
-  - Automata-based programming
-  - Domain-specific languages
-  - Multi-paradigm programming
-  - Metaprogramming
+  - Procedural programming 🚀 constructed (my [Java--](https://github.com/mibal-ua/javamm) project)
+  - Imperative programming 🚀 constructed (my [Java--](https://github.com/mibal-ua/javamm) project)
+  - Structured programming 🙋 explained
+  - Non-structured programming 🙋 explained
+  - Functional programming 🔬 researched
+  - Prototype-based programming 🎓 known
+  - Object-oriented programming 🎓 known
+  - Object-based programming 🎓 known
+  - Generic programming 🔬 researched
+  - Concurrent computing 🎓 known
+  - Asyncronous programming 🔬 researched
+  - Parallel programming 🔬 researched
+  - Reactive programming 🎓 known
+  - FRP (Functional-reactive) 👂 heard
+  - Automata-based programming 👂 heard
+  - Domain-specific languages 🖐️ used
+  - Multi-paradigm programming 🖐️ used
+  - Metaprogramming 🎓 known
   - Actor model
 - OOP basics
-  - constructor
-  - new
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
-  - Hidden class
-  - Object form
-  - instance
-  - Introspection
-  - Reflection
+  - constructor 🔬 researched
+  - new 🔬 researched
+  - Static method 🔬 researched
+  - Method 🔬 researched
+  - Async method 🔬 researched
+  - Getters, Setters 🔬 researched
+  - Public fields 🔬 researched
+  - Private fields 🔬 researched
+  - Field declarations 🔬 researched
+  - Inheritance 🔬 researched
+  - Parent class 🔬 researched
+  - Polymorphism 🔬 researched
+  - Abstract class 🔬 researched
+  - Interface 🔬 researched
+  - Encapsulation 🔬 researched
+  - Hidden class 🔬 researched
+  - Object form 🔬 researched
+  - instance 🔬 researched
+  - Introspection 🔬 researched
+  - Reflection 🔬 researched
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
-  - Adapter
-  - Observer
+  - Singleton 🚀 constructed
+  - Factory Method 🚀 constructed
+  - Abstract Factory 🚀 constructed
+  - Adapter 🚀 constructed
+  - Observer 🔬 researched
   - Strategy
-  - Facade
-  - Proxy
-  - Chain of Responsibility
-  - Command
-  - Iterator
+  - Facade 🙋 explained
+  - Proxy 🚀 constructed
+  - Chain of Responsibility 🚀 constructed
+  - Command 🚀 constructed
+  - Iterator 🙋 explained
   - State
   - Bridge
-  - Builder
+  - Builder 🚀 constructed
   - Prototype
-  - Composite
-  - Decorator
+  - Composite 🔬 researched
+  - Decorator 🔬 researched
   - Flyweight
   - Mediator
   - Memento
   - Template Method
-  - Visitor
+  - Visitor 🎓 known

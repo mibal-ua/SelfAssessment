@@ -1,106 +1,106 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
-  - heap
-  - function
-  - procedure
-  - method
-  - class
-  - prototype
-  - event
-  - type
-  - primitive types
-  - reference types
-  - flag
-  - lexical scope
-  - code block
-  - conditions
-  - loops
-  - assignment
-  - regular expression
-  - interface
-  - contract
-  - module
-  - call stack
+  - value 🚀 constructed
+  - identifier 🚀 constructed
+  - variable 🚀 constructed
+  - constant 🙋 explained
+  - scalar 🚀 constructed
+  - literal 🙋 explained
+  - expression 🚀 constructed
+  - heap 🙋 explained
+  - function 🚀 constructed
+  - procedure 🙋 explained
+  - method 🙋 explained
+  - class 🔬 researched
+  - prototype 🙋 explained
+  - event  🙋 explained
+  - type 🔬 researched
+  - primitive types 🔬 researched
+  - reference types 🔬 researched
+  - flag 🙋 explained
+  - lexical scope 🙋 explained
+  - code block 🔬 researched
+  - conditions 🔬 researched
+  - loops 🔬 researched
+  - assignment 🔬 researched
+  - regular expression 🔬 researched
+  - interface 🔬 researched
+  - contract 🔬 researched
+  - module 🔬 researched
+  - call stack 🔬 researched
 - Functions
-  - signature
-  - argument
-  - parameter
-  - pure function
-  - lambda expression
-  - side effects
-  - closure
-  - partial application
-  - curry
-  - higher order
-  - recursion
-  - callback
-  - listener
-  - compose
-  - pipe
-  - memoize
-  - wrapper
-  - functor
-  - monad
-  - monoid
-  - generator
-  - coroutine
+  - signature 🙋 explained
+  - argument 🙋 explained
+  - parameter 🙋 explained
+  - pure function 🚀 constructed
+  - lambda expression 🙋 explained
+  - side effects 🔬 researched
+  - closure 🚀 constructed
+  - partial application 🚀 constructed
+  - curry 🚀 constructed
+  - higher order 🔬 researched
+  - recursion 🚀 constructed
+  - callback 🚀 constructed
+  - listener 🚀 constructed
+  - compose 🚀 constructed
+  - pipe 🚀 constructed
+  - memoize 🔬 researched
+  - wrapper 🚀 constructed
+  - functor 🎓 known
+  - monad 🎓 known
+  - monoid 🎓 known
+  - generator 🚀 constructed
+  - coroutine 🚀 constructed
 - Data structures
-  - array
-  - structure
-  - record
-  - enum
-  - instance
-  - object
-  - class
-  - collection
-  - set
-  - hash table
-  - linked list
-  - doubly list
-  - unrolled list
-  - circular list
-  - queue
-  - stack
-  - deque
-  - tree
-  - graph
-  - iterator
-  - mutable state
-  - immutable state
-  - serialization
-  - string parsing
+  - array 🚀 constructed
+  - structure 🔬 researched
+  - record 🔬 researched
+  - enum 🚀 constructed
+  - instance 🔬 researched
+  - object 🔬 researched
+  - class 🔬 researched
+  - collection 🚀 constructed
+  - set 🚀 constructed
+  - hash table 🚀 constructed
+  - linked list 🚀 constructed
+  - doubly list 🚀 constructed
+  - unrolled list 🎓 known
+  - circular list 🎓 known
+  - queue 🚀 constructed
+  - stack 🚀 constructed
+  - deque 🚀 constructed
+  - tree 🚀 constructed
+  - graph 🚀 constructed
+  - iterator 🚀 constructed
+  - mutable state 🔬 researched
+  - immutable state 🔬 researched
+  - serialization 🚀 constructed
+  - string parsing 🚀 constructed
 - Process & style
-  - compiler
+  - compiler 🚀 constructed
   - transpiler
-  - linter
-  - polyfill
-  - debugger
-  - garbage collection
-  - refactoring
-  - code review
-  - antipatterns
-  - paradigm
-  - algorithm
-  - magic numbers
-  - hardcode
-  - complexity
-  - decomposition
-  - spaghetti
-  - silver bullet
-  - not invented here
-  - dead code
-  - unreachable code
-  - duplicate code
-  - exception
-  - return early
-  - unittest
-  - git
-  - github
+  - linter 🙋 explained
+  - polyfill 🙋 explained
+  - debugger 🙋 explained
+  - garbage collection 📢 talked
+  - refactoring 📢 talked
+  - code review 📢 talked
+  - antipatterns 📢 talked
+  - paradigm 📢 talked
+  - algorithm 📢 talked
+  - magic numbers 📢 talked
+  - hardcode 📢 talked
+  - complexity 🔬 researched
+  - decomposition 🙋 explained
+  - spaghetti 📢 talked
+  - silver bullet 🙋 explained
+  - not invented here 🙋 explained
+  - dead code 🔬 researched
+  - unreachable code 🙋 explained
+  - duplicate code 🙋 explained
+  - exception 🔬 researched
+  - return early 🙋 explained
+  - unittest 🚀 constructed
+  - git 🔬 researched
+  - github 🔬 researched

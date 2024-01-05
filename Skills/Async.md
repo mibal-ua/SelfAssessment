@@ -4,21 +4,21 @@
   - Event loop 👂 heard
   - try..catch 🖐️ used
   - Non-blocking 👂 heard
-  - Async I/O 👂 heard
+  - Async I/O
   - Thread pool 👂 heard
   - Pattern Reactor 👂 heard
   - CAS operations 👂 heard
-  - epoll 👂 heard
-  - kqueue 👂 heard
-  - Completion ports 👂 heard
-  - Event ports 👂 heard
-  - libuv 👂 heard
+  - epoll
+  - kqueue
+  - Completion ports
+  - Event ports
+  - libuv
   - Race conditions 🎓 known
   - Dead locks 🎓 known
   - Live locks 👂 heard
   - Concurrent programming 🎓 known
   - Parallel programming 👂 heard
-  - Actor Model 👂 heard
+  - Actor Model
   - Thread 🎓 known
   - Process 🎓 known
 - Async contracts
@@ -34,16 +34,16 @@
   - Async Iterator 👂 heard
   - Event 👂 heard
   - Coroutine 👂 heard
-  - Goroutine 👂 heard
+  - Goroutine
   - Signal 👂 heard
   - Stream 🖐️ used
   - Chain of responsibility 🖐️ used
   - Middleware 👂 heard
   - Locks 👂 heard
 - Async adapters and utils
-  - callbackify 👂 heard
-  - promisify 👂 heard
-  - asyncify 👂 heard
+  - callbackify
+  - promisify
+  - asyncify
   - callbacks compose 🖐️ used
   - async compose 👂 heard
 - Async abstractions interfaces
@@ -62,34 +62,34 @@
   - Timers 👂 heard
   - setImmediate 🖐️ used
   - nextTick 🖐️ used
-  - AbortController 👂 heard
-  - AbortSignal 👂 heard
-  - Promise unhandled rejection 👂 heard
+  - AbortController
+  - AbortSignal
+  - Promise unhandled rejection
   - Promise double resolve 👂 heard
   - child_process 👂 heard
   - worker_threads 👂 heard
   - Atomics 👂 heard
-  - High resolution clock 👂 heard
-  - Callback hell 👂 heard
-  - Promise hell 👂 heard
-  - ref() and unref() 👂 heard
+  - High resolution clock
+  - Callback hell
+  - Promise hell
+  - ref() and unref()
   - Error handling in async code 👂 heard
-  - Better stack traces with return await 👂 heard
+  - Better stack traces with return await
   - JSON: streaming serialization 👂 heard
   - promisify 👂 heard
-  - callbackify 👂 heard
+  - callbackify
   - AsyncLocalStorage 👂 heard
   - AsyncResource 👂 heard
 - Techniques
   - async.js library 👂 heard
-  - RxJS library 👂 heard
-  - Async composition 👂 heard
+  - RxJS library
+  - Async composition
   - Promise.all 👂 heard
   - Promise.allSettled 👂 heard
   - Promise.race 👂 heard
   - Promise.any 👂 heard
-  - Web Locks API 👂 heard
-  - IPC 👂 heard
-  - Channel API 👂 heard
-  - Revealing Constructor 👂 heard
-  - Web Locks API 👂 heard
+  - Web Locks API 
+  - IPC
+  - Channel
+  - Revealing Constructor
+  - Web Locks API
